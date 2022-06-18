@@ -2,3 +2,7 @@ numpy
 pandas
 sklearn
 mkdocs-material
+PyYAML
+tqdm
+### local packages -
+# -e . # << uncomment this to install from setup.py
