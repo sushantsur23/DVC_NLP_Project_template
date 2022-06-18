@@ -2,6 +2,7 @@ numpy
 pandas
 sklearn
 mkdocs-material
+ipykernel
 PyYAML
 tqdm
 ### local packages -
