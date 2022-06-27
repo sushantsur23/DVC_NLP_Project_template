@@ -13,7 +13,7 @@ repo_url: https://github.com/sushantsur23/REPO_NAME
 
 # Configuration
 theme:
-  name: material
+  name: readthedocs
   features:
     - navigation.tabs
     - navigation.sections
